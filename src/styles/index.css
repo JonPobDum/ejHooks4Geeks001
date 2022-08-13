@@ -3,17 +3,19 @@
     background: black;
     padding: 25px;
     display: inline-block;
-    margin: auto;
+    margin-top: 20px;
+    margin-left: 20px;
     align-items: center;
+    border-radius: 3rem;
 
 }
 .light{
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background-color: blue;
+    background-color: white;
     padding: 25px;
-    margin: auto;
+    margin: 10px 10px 10px 10px;
 }
 .red {
     background: red;
